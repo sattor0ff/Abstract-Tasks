@@ -1,0 +1,15 @@
+D:\CSharpPractices\Exma3.02.01\MainApp\bin\Debug\net7.0\MainApp.exe
+D:\CSharpPractices\Exma3.02.01\MainApp\bin\Debug\net7.0\MainApp.deps.json
+D:\CSharpPractices\Exma3.02.01\MainApp\bin\Debug\net7.0\MainApp.runtimeconfig.json
+D:\CSharpPractices\Exma3.02.01\MainApp\bin\Debug\net7.0\MainApp.dll
+D:\CSharpPractices\Exma3.02.01\MainApp\bin\Debug\net7.0\MainApp.pdb
+D:\CSharpPractices\Exma3.02.01\MainApp\obj\Debug\net7.0\MainApp.csproj.AssemblyReference.cache
+D:\CSharpPractices\Exma3.02.01\MainApp\obj\Debug\net7.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\Exma3.02.01\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfoInputs.cache
+D:\CSharpPractices\Exma3.02.01\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfo.cs
+D:\CSharpPractices\Exma3.02.01\MainApp\obj\Debug\net7.0\MainApp.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\Exma3.02.01\MainApp\obj\Debug\net7.0\MainApp.dll
+D:\CSharpPractices\Exma3.02.01\MainApp\obj\Debug\net7.0\refint\MainApp.dll
+D:\CSharpPractices\Exma3.02.01\MainApp\obj\Debug\net7.0\MainApp.pdb
+D:\CSharpPractices\Exma3.02.01\MainApp\obj\Debug\net7.0\MainApp.genruntimeconfig.cache
+D:\CSharpPractices\Exma3.02.01\MainApp\obj\Debug\net7.0\ref\MainApp.dll
